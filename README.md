@@ -18,7 +18,7 @@ I’ve worked on full-stack applications, cloud-native solutions, DevOps automat
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,py,dotnet,terraform,ansible,docker,nestjs,html,css,js,mysql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=angular,react,py,java,dotnet,terraform,ansible,docker,nestjs,html,css,js,mysql&perline=6" />
   </a>
 </p>
 
