@@ -58,11 +58,11 @@ Interactive dashboards, admin portals, and business systems for academic and ent
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=davidcarrero&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DavidCarrero&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcarrero&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCarrero&layout=compact&theme=tokyonight" />
 </p>
 
 ---
